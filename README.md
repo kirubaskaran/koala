@@ -1,6 +1,14 @@
 npm install
+
+
+
 nodemon index.js
+
+
+
 http://localhost:8081/processAssetList
+
+
 
 Input Payload:
 [
