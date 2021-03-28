@@ -8,6 +8,10 @@ nodemon index.js
 
 http://localhost:8081/processAssetList
 
+or
+
+https://localhost:443/processAssetList (Disable SSL in postman to use this)
+
 
 
 Input Payload:
