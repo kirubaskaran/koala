@@ -1,0 +1,37 @@
+{
+  "name": "koala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "babel-preset-env": "^1.7.0",
+    "koa": "^2.13.1",
+    "koa-body": "^4.2.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-cache-control": "^2.0.0",
+    "koa-compose": "^4.1.0",
+    "koa-helmet": "^6.1.0",
+    "koa-session": "^6.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/node": "^7.13.10",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.13.10",
+    "@babel/register": "^7.13.8",
+    "babel-register": "^6.26.0",
+    "eslint": "^7.22.0",
+    "jsonschema": "^1.4.0",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.7",
+    "ramda": "^0.27.1",
+    "ramda-adjunct": "^2.31.1",
+    "sort-array": "^4.1.4"
+  }
+}
